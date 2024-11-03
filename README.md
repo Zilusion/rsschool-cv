@@ -1,1 +1,1 @@
-[# rsschool-cv](https://zilusion.github.io/rsschool-cv/cv)
+https://zilusion.github.io/rsschool-cv/
