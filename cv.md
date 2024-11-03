@@ -12,3 +12,6 @@
 - **Tools:** Git, GitHub, Figma, WinSCP, Cisco Packet Tracer, VSCode
 - **Methodologies:** BEM, REST API
 - **DevOps:** Ubuntu Server setup, SSH, SSL configuration
+
+## Education
+- **College of Communications №54 3rd year student**
