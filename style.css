@@ -1,0 +1,61 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.page {
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	color: #333;
+	padding: 20px;
+	background-color: #f4f4f4;
+}
+
+.header {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.header__title {
+	font-size: 2em;
+	color: #333;
+}
+
+.contacts,
+.skills,
+.education {
+	margin-bottom: 20px;
+}
+
+.contacts__title,
+.skills__title,
+.education__title {
+	font-size: 1.5em;
+	color: #555;
+	margin-bottom: 10px;
+}
+
+.contacts__list,
+.skills__list {
+	list-style-type: none;
+}
+
+.contacts__item,
+.skills__item {
+	margin-bottom: 8px;
+}
+
+.contacts__link {
+	color: #0066cc;
+	text-decoration: none;
+}
+
+.contacts__link:hover {
+	text-decoration: underline;
+}
+
+.education__text {
+	font-size: 1em;
+	color: #333;
+}
